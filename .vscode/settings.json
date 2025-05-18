@@ -66,5 +66,8 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "earthjam.sln"
+    "dotnet.defaultSolution": "earthjam.sln",
+    "cSpell.words": [
+        "Mathf"
+    ]
 }
